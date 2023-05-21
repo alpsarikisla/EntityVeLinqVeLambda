@@ -1,0 +1,8 @@
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\bin\Debug\LinkToObjectVeLambdaExpressions.exe.config
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\bin\Debug\LinkToObjectVeLambdaExpressions.exe
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\bin\Debug\LinkToObjectVeLambdaExpressions.pdb
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\obj\Debug\LinkToObjectVeLambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\obj\Debug\LinkToObjectVeLambdaExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\obj\Debug\LinkToObjectVeLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\obj\Debug\LinkToObjectVeLambdaExpressions.exe
+C:\Users\303\source\repos\LinkToObjectVeLambdaExpressions\LinkToObjectVeLambdaExpressions\obj\Debug\LinkToObjectVeLambdaExpressions.pdb

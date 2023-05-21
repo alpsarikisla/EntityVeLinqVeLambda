@@ -1,0 +1,13 @@
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFrameworkKullanimi.exe.config
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFrameworkKullanimi.exe
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFrameworkKullanimi.pdb
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.exe
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.pdb
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.dll
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.xml
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303\source\repos\EntityFrameworkKullanimi\EntityFrameworkKullanimi\obj\Debug\EntityFrameworkKullanimi.csproj.CopyComplete
